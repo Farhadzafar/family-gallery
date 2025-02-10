@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Zafari's Family Photos",
-  description: "Created with v0",
+  description: "Created with by Farhad Zafari",
 };
 
 export default function RootLayout({
